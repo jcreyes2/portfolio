@@ -11,7 +11,7 @@ If you prefer a blog approach, [click here](https://jcreyes2.github.io/jcreyes2.
 * #####  Data Visualization
     * [Overview of Chicago Life Expectancy](https://github.com/jcreyes2/portfolio/tree/master/chicago_life_expectancy) Analysis on the 77 Chicago communities
     and their life expectancy from 1990-2010.
-    *[Chicago Demographics](https://github.com/jcreyes2/portfolio/tree/master/chicago_census) Exploratory Analysis on the 77 Chicago communities including their
+    * [Chicago Demographics](https://github.com/jcreyes2/portfolio/tree/master/chicago_census) Exploratory Analysis on the 77 Chicago communities including their
     racial and age change over time.
 
   *Tools: sci-kit learn, Pandas, Seaborn, Matplotlib*   
