@@ -18,5 +18,6 @@ If you prefer a blog approach, [click here](https://jcreyes2.github.io/jcreyes2.
   
 * ##### Machine Learning
     * [U.S. News and World Report’s College Data](https://www.kaggle.com/juanreyes1738/linear-regression) Multivariate Linear Regression on 777 Institutions.
+    * [Spotify's Top Songs](https://www.kaggle.com/juanreyes1738/linear-regression-for-top-50-songs) Linear Regression on popularity.
 
   *Tools: sci-kit learn, Pandas, Numpy
