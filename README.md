@@ -16,8 +16,8 @@ If you prefer a blog approach, [click here](https://jcreyes2.github.io/jcreyes2.
 
   *Tools: sci-kit learn, Pandas, Seaborn, Matplotlib*   
   
-* ##### Machine Learning
+* ##### Data Analysis/Data Science
     * [U.S. News and World Report’s College Data](https://www.kaggle.com/juanreyes1738/linear-regression) Multivariate Linear Regression on 777 Institutions.
     * [Spotify's Top Songs](https://www.kaggle.com/juanreyes1738/linear-regression-for-top-50-songs) Linear Regression on popularity.
-
+    * [Classification of Breast Cancer](https://www.kaggle.com/juanreyes1738/classification-of-breast-cancer) Classifcation of 569 Breast Tumor samples as Benign or Malignant.
   *Tools: sci-kit learn, Pandas, Numpy
